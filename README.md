@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Shraddha20-shetty
 - 👀 I’m interested in python,java,web development, javascript  
 - 🌱 I’m currently learning java
+  <br>
 - 🚀 About Me (Updated)
+- <br>
 -🔭 Interned at Motion Cut & Next 24 Tech (Python Development)
 -📚 Learning Java, DSA, and Backend Development
 -💡 Interested in Software Development & Problem-Solving
