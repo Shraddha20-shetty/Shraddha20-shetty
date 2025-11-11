@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java
 - 🚀 About Me (Updated)
 <br>-🔭 Interned at Motion Cut & Next 24 Tech (Python Development)</br>
+<br>-Interned at oasis infobyte (java programming)</br>
 <br>-📚 Learning Java, DSA, and Backend Development</br>
 </br>-💡 Interested in Software Development & Problem-Solving</br>
 <!---
